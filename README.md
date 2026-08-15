@@ -19,7 +19,7 @@ The application supports separate **Customer and Admin roles** and follows a lay
 - Generate PDF Invoice
 - Logout
 
-### 👨‍💼 Admin Features
+### Admin Features
 - Admin Login
 - View Products
 - Product Pagination
