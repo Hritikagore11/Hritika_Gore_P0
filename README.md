@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Application
+# E-Commerce Application
 
 A console-based **E-Commerce Application developed using Python and MySQL**.  
 The application supports separate **Customer and Admin roles** and follows a layered architecture for better organization and maintainability.
