@@ -22,8 +22,6 @@ __pycache__/
 *.sqlite
 *.sqlite3
 
-# Generated invoices
-invoices/
 
 # Generated files
 *.log
