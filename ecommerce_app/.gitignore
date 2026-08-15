@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+
+# Database / local files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated invoices
+invoices/
+
+# Generated files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

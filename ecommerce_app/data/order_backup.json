@@ -1,0 +1,32 @@
+[
+    {
+        "order_id": 2,
+        "user_id": 2,
+        "total_amount": 230000.0,
+        "status": "PLACED"
+    },
+    {
+        "order_id": 3,
+        "user_id": 2,
+        "total_amount": 710993.0,
+        "status": "PLACED"
+    },
+    {
+        "order_id": 4,
+        "user_id": 2,
+        "total_amount": 130000.0,
+        "status": "PLACED"
+    },
+    {
+        "order_id": 5,
+        "user_id": 2,
+        "total_amount": 716997.0,
+        "status": "PLACED"
+    },
+    {
+        "order_id": 6,
+        "user_id": 2,
+        "total_amount": 191991.0,
+        "status": "PLACED"
+    }
+]
